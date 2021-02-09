@@ -1,0 +1,10 @@
+{
+  "name": "backend-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for backends using Typescript and GraphQL.",
+  "main": "index.js",
+  "repository": "https://github.com/EdwardKerckhofZoneDev/typescript-graphql-boilerplate.git",
+  "author": "EdwardKerckhofZoneDev <edward@zonedev.be>",
+  "license": "MIT",
+  "private": false
+}
