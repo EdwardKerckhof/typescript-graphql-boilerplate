@@ -10,5 +10,8 @@ Boilerplate for backends using Typescript and GraphQL.
 git clone https://github.com/EdwardKerckhofZoneDev/typescript-graphql-boilerplate.git
 cd typescript-graphql-boilerplate
 yarn instal
-yarn dev
+
+# TWO TERMINALS REQUIRED
+yarn watch # watches for file changes and builds Typescript to Javascript
+yarn dev # runs the compiled server
 ```
