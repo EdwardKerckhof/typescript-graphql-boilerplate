@@ -4,6 +4,14 @@
 Boilerplate for backends using Typescript and GraphQL.
 ```
 
+### Technologies used
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [GraphQL](https://graphql.org/)
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [Apollo](https://www.apollographql.com/)
+
 ### Instal
 
 ```bash
